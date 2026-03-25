@@ -1,0 +1,16 @@
+{
+  "miniprogramRoot": "./",
+  "setting": {
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true
+  },
+  "compileType": "game",
+  "appid": "touristappid",
+  "projectname": "block-vs-block",
+  "description": "方块战方块 - 双人对战微信小游戏",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "condition": {}
+}
