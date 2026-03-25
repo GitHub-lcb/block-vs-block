@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+.npm/
+
+# Build outputs
+dist/
+build/
+out/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Cocos Creator
+library/
+temp/
+local/
+
+# WeChat Mini Game
+.project
+.miniprogram/
+
+# Temp folders
+%TEMP%/
